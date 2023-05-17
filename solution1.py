@@ -1,4 +1,4 @@
-## To indicate the degree of profanity for each sentence in a file full of Twitter tweets, you can use the following Python program:
+# To indicate the degree of profanity for each sentence in a file full of Twitter tweets, you can use the following Python program:
 
 import re
 
